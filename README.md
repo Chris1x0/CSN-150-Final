@@ -11,7 +11,10 @@ Steps
 5. Connected my ESP32 to my laptop
 6. Upload the sketch to my ESP32
 7. Open the serial monitor and reset my ESP32
-8. Open my WiFi tab on my laptop and saw the bogus WiFi spots
+8. Open my WiFi tab on my laptop and saw the bogus SSID spots
+   
+![image](https://github.com/Chris1x0/CSN-150-Final/assets/158490626/cf207c19-bd68-4529-b5e4-125199870566)
+
 
 Problems
 
