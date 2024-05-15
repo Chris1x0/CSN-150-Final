@@ -14,6 +14,8 @@ Steps
 8. Open my WiFi tab on my laptop and saw the bogus SSID spots
    
 ![image](https://github.com/Chris1x0/CSN-150-Final/assets/158490626/cf207c19-bd68-4529-b5e4-125199870566)
+![WiFi test](https://github.com/Chris1x0/CSN-150-Final/assets/158490626/3fc11dcc-33bc-4b21-a32b-f4d115efd6fa)
+![WiFi test 2](https://github.com/Chris1x0/CSN-150-Final/assets/158490626/52713b50-b620-4844-9844-8ec30077576b)
 
 
 Problems
