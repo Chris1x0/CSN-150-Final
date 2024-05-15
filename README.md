@@ -17,11 +17,19 @@ Steps
 
 
 Before:
+
+
+
+
 ![WiFi test](https://github.com/Chris1x0/CSN-150-Final/assets/158490626/3fc11dcc-33bc-4b21-a32b-f4d115efd6fa)
 
 
 
 After:
+
+
+
+
 ![WiFi test 2](https://github.com/Chris1x0/CSN-150-Final/assets/158490626/52713b50-b620-4844-9844-8ec30077576b)
 
 
